@@ -1,1 +1,2 @@
 Hi this is A
+This is a new line
