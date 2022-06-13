@@ -1,0 +1,4 @@
+if IOS
+Hi this is not C but C'
+else
+null

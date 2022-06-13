@@ -1,1 +1,4 @@
+if IOS 
+null
+else 
 Hi this is not B but B'
